@@ -1,5 +1,3 @@
-Here's the updated documentation for your TriadMatrix installer, pointing to the official GitHub repository:
-
 # TriadMatrix Node Installer
 
 ![TriadMatrix Logo](https://raw.githubusercontent.com/zalgorythm/triadmatrix/main/assets/logo.png)
