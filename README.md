@@ -1,6 +1,6 @@
 # TriadMatrix Node Installer
 
-![TriadMatrix Logo](https://raw.githubusercontent.com/zalgorythm/triadmatrix/main/assets/logo.png)
+![TriadMatrix Logo](https://raw.githubusercontent.com/zalgorythm/triadmatr)
 
 ## Overview
 
