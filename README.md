@@ -1,7 +1,5 @@
 # TriadMatrix Node Installer
 
-![TriadMatrix Logo](https://raw.githubusercontent.com/zalgorythm/triadmatr)
-
 ## Overview
 
 This installer provides a one-command setup for TriadMatrix nodes. The `install.sh` script handles all system requirements and configuration to deploy a TriadMatrix node from the [official repository](https://github.com/zalgorythm/triadmatrix).
